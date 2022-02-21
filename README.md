@@ -1,6 +1,6 @@
 # Tecnologias Web
 
-Grupo:
+DUPLA:
 
 - DIGITE O NOME DO PRIMEIRO INTEGRANTE
 - DIGITE O NOME DO SEGUNDO INTEGRANTE
@@ -25,6 +25,8 @@ O gif abaixo mostra a página sendo recarregada manualmente diversas vezes. **AT
 ![Referência animada do resultado esperado](Get-it.gif)
 
 ## Instruções
+
+Esta atividade deve ser realizada em duplas.
 
 Atualize o cabeçalho deste arquivo README.md com os dados do seu trabalho.
 
