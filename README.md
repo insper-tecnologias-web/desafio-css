@@ -1,4 +1,4 @@
-# Tecnologias Web 2021-2
+# Tecnologias Web
 
 Grupo:
 
@@ -8,15 +8,21 @@ Grupo:
 
 ## Desafio CSS
 
-O seu objetivo é se aproximar o máximo possível da página a seguir (se precisar de uma imagem com resolução melhor [clique aqui](referencia.png)) utilizando apenas CSS puro. Este gif mostra a página sendo recarregada manualmente. A animação é apenas para mostrar que a cada vez que a página é carregada, os elementos mudam de cor e rotação aleatoriamente. Não se preocupe, o javascript responsável pela aleatorização já está pronto.
+Na aula passada nós desenvolvemos a primeira versão do nosso primeiro site, o Get-it. Na aula de hoje nós vamos nos focar no estilo da página para relembrar e aprender alguns conceitos de CSS.
 
-Versão inicial:
+O nosso objetivo é partir da **Versão inicial:**
 
 ![](original.png)
 
-Versão esperada:
 
-![](Get-it.gif)
+O seu objetivo é se aproximar o máximo possível da página a seguir (se precisar de uma imagem com resolução melhor [clique aqui](referencia.png)) utilizando apenas CSS puro.
+
+**Versão esperada:**
+![Referência do resultado esperado](referencia.png)
+
+O gif abaixo mostra a página sendo recarregada manualmente diversas vezes. **ATENÇÃO:** A animação é apenas para mostrar que a cada vez que a página é carregada, os elementos mudam de cor e rotação aleatoriamente. Não se preocupe, o javascript responsável pela aleatorização já está pronto.
+
+![Referência animada do resultado esperado](Get-it.gif)
 
 ## Instruções
 
