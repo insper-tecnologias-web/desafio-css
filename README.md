@@ -1,9 +1,8 @@
 # Tecnologias Web
 
-DUPLA:
+NOME DOS INTEGRANTES:
 
 - DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
@@ -26,17 +25,17 @@ O gif abaixo mostra a página sendo recarregada manualmente diversas vezes. **AT
 
 ## Instruções
 
-Esta atividade deve ser realizada em duplas.
+Esta atividade deve ser realizada em trios, duplas ou individualmente.
 
 Atualize o cabeçalho deste arquivo README.md com os dados do seu trabalho.
 
-Você pode modificar apenas o conteúdo do arquivo [docs/getit.css](docs/getit.css).
+Você deve modificar apenas o conteúdo do arquivo [docs/getit.css](docs/getit.css).
 
-**Dica:** Você pode testar facilmente no seu computador executando o comando `python -m http.server` dentro da pasta `docs`.
+**Dica:** Utiliza a extensão **Live Server** do Visual Studio Code para visualizar a página HTML.
 
 ## Entrega
 
-A sua página deve **obrigatoriamente** estar disponível no GitHub pages seguindo [estes passos](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+A sua página deve **obrigatoriamente** estar disponível no GitHub pages seguindo [estes passos](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). **Importante:** Caso a página não esteja disponível no GitHub Pages, será descontado 1 ponto da nota final.
 
 Será considerado o último commit enviado antes do prazo.
 
@@ -61,8 +60,7 @@ A nota deste trabalho é a soma dos pontos abaixo. Será feita uma inspeção vi
 
 ## Observações importantes
 
-- No caso de entrega com atraso, a nota será a metade da soma dos pontos obtidos.
-- **Trabalhos não identificados (sem nome neste arquivo README) serão considerados atrasados (veja o item acima).** O mesmo vale se o nome do aluno não constar entre os autores e for adicionado posteriormente.
+- No caso de entrega com atraso, a nota ficará limitada a 5 (equivalente ao conceito C).
 - A nota de trabalhos com modificações em outros arquivos além do README.md e do [docs/getit.css](docs/getit.css) será limitada a no máximo 7 (equivalente ao conceito B). Modificações em outros arquivos devem ser explicitamente aprovadas pelo professor.
 - Para este trabalho você não precisa se preocupar com a versão mobile da página. Ela será testada apenas em um monitor.
 - Posicionamento absoluto não deve ser utilizado em nenhum elemento. Caso seja utilizado, o posicionamento não será considerado correto.
